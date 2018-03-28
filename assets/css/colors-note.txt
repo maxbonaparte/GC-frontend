@@ -1,0 +1,14 @@
+#0e2e45 -> Dark blue (GM)
+
+#333 -> Very dark blue (GM)
+
+
+	 -> orange (GM)
+
+
+Theory template:
+
+#5385c1 -> light blue (Theory template)
+
+#5385c1 -> hover button light blue (theory template)
+
